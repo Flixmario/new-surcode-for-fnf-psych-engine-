@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				410,
+				260
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "courage up"
+		},
+		{
+			"offsets": [
+				410,
+				260
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "courage idle"
+		},
+		{
+			"offsets": [
+				430,
+				270
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "courage down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				259
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "courage left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				389,
+				260
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "courage right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/courage",
+	"position": [
+		10,
+		40
+	],
+	"healthicon": "courage",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		40,
+		255
+	],
+	"camera_position": [
+		-140,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				261
+			],
+			"anim": "static",
+			"fps": 19,
+			"name": "smurfette static",
+			"indices": []
+		},
+		{
+			"offsets": [
+				310,
+				270
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "atack",
+			"indices": [],
+			"name": "smurfette atack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				259
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "pibbyplay right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				260
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "pibbyplay idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				260
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "pibbyplay up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				270
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "pibbyplay down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				389,
+				260
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "pibbyplay left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				410,
+				261
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "dogde",
+			"loop": false,
+			"name": "pibbyplay dogde"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbyplay",
+	"position": [
+		-70,
+		190
+	],
+	"healthicon": "pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		60,
+		78,
+		215
+	],
+	"camera_position": [
+		-70,
+		250
+	],
+	"sing_duration": 6.9,
+	"scale": 0.3
+}

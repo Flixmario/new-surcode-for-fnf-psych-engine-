@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				260
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "smurfette up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				270
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "smurfette down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				259
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "smurfette right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				389,
+				260
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "smurfette left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				261
+			],
+			"anim": "static",
+			"fps": 19,
+			"name": "smurfette static",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				410,
+				260
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "smurfette idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				310,
+				270
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "atack",
+			"indices": [],
+			"name": "smurfette atack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nogf",
+	"position": [
+		-110,
+		80
+	],
+	"healthicon": "nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		78,
+		215
+	],
+	"camera_position": [
+		-410,
+		-150
+	],
+	"sing_duration": 6.9,
+	"scale": 0.8
+}
