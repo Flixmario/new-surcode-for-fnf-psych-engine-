@@ -1,0 +1,32 @@
+{
+	"storyName": "annoying",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "orange",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"sliced",
+			"orange",
+			[
+				255,
+				153,
+				15
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "annoying orange",
+	"hiddenUntilUnlocked": false
+}

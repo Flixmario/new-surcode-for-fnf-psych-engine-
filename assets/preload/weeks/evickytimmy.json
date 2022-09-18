@@ -1,0 +1,41 @@
+{
+	"storyName": "fairly odd parents",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "turner",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"wish-come-true",
+			"vicky",
+			[
+				255,
+				133,
+				55
+			]
+		],
+		[
+			"damaged wand",
+			"timmy",
+			[
+				186,
+				73,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "vicky and timmy",
+	"hiddenUntilUnlocked": false
+}

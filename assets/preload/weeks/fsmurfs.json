@@ -1,0 +1,32 @@
+{
+	"storyName": "a glitched village?!",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "smurfette",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Sisters Of BLue",
+			"smurfette",
+			[
+				106,
+				213,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "smurfs"
+}

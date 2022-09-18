@@ -1,0 +1,140 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"???",
+			"courage",
+			[
+				206,
+				73,
+				253
+			]
+		],
+		[
+			"????",
+			"justo",
+			[
+				86,
+				213,
+				113
+			]
+		],
+		[
+			"????",
+			"gumball",
+			[
+				35,
+				133,
+				175
+			]
+		],
+		[
+			"???",
+			"gumball",
+			[
+				35,
+				133,
+				175
+			]
+		],
+		[
+			"???",
+			"anais",
+			[
+				255,
+				113,
+				235
+			]
+		],
+		[
+			"???",
+			"family",
+			[
+				35,
+				133,
+				175
+			]
+		],
+		[
+			"???",
+			"richard",
+			[
+				235,
+				113,
+				235
+			]
+		],
+		[
+			"???",
+			"orange",
+			[
+				255,
+				133,
+				73
+			]
+		],
+		[
+			"???",
+			"orange",
+			[
+				255,
+				115,
+				0
+			]
+		],
+		[
+			"????",
+			"oddparents",
+			[
+				66,
+				213,
+				55
+			]
+		],
+		[
+			"??????",
+			"vicky",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"???",
+			"smurfp",
+			[
+				46,
+				153,
+				255
+			]
+		],
+		[
+			"???",
+			"smurfette",
+			[
+				46,
+				233,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "tom and jerry",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "tom",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"mouse-chase",
+			"tomjerry",
+			[
+				255,
+				115,
+				35
+			]
+		],
+		[
+			"running-rat",
+			"tomjerry",
+			[
+				255,
+				75,
+				55
+			]
+		],
+		[
+			"pratfallen",
+			"tom",
+			[
+				255,
+				75,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "tom and jerry",
+	"hiddenUntilUnlocked": false
+}
