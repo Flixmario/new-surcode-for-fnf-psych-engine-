@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smurfette.png"><SubTexture name="smurfette static0000" x="0" y="1645" width="369" height="535" frameX="-134" frameY="-11" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette static0001" x="369" y="1645" width="370" height="535" frameX="-131" frameY="-11" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette static0002" x="739" y="1645" width="395" height="535" frameX="-112" frameY="-11" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0000" x="1134" y="1645" width="369" height="535" frameX="-134" frameY="-11" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0001" x="1879" y="1645" width="372" height="531" frameX="-147" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0002" x="2695" y="531" width="375" height="525" frameX="-147" frameY="-21" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0003" x="2320" y="0" width="375" height="531" frameX="-143" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0004" x="1503" y="1645" width="376" height="532" frameX="-142" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0005" x="1979" y="2180" width="383" height="527" frameX="-141" frameY="-19" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0006" x="2695" y="0" width="376" height="531" frameX="-142" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0007" x="0" y="2180" width="379" height="531" frameX="-139" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0008" x="379" y="2180" width="379" height="531" frameX="-139" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0009" x="2362" y="2180" width="388" height="526" frameX="-139" frameY="-20" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0010" x="758" y="2180" width="407" height="531" frameX="-111" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0011" x="1165" y="2180" width="407" height="531" frameX="-111" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0012" x="1572" y="2180" width="407" height="531" frameX="-111" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0013" x="0" y="555" width="407" height="547" frameX="-111" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0014" x="454" y="1102" width="407" height="538" frameX="-111" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0015" x="1841" y="0" width="479" height="537" frameX="-39" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0016" x="1841" y="537" width="473" height="537" frameX="-45" frameY="-15" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0017" x="1841" y="1074" width="425" height="536" frameX="-74" frameY="-10" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette idle0018" x="1134" y="1645" width="369" height="535" frameX="-134" frameY="-11" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette left0000" x="3071" y="0" width="402" height="491" frameX="-126" frameY="-47" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette left0001" x="3071" y="491" width="402" height="491" frameX="-126" frameY="-47" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette left0002" x="0" y="2711" width="422" height="484" frameX="-106" frameY="-54" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette left0003" x="422" y="2711" width="431" height="484" frameX="-92" frameY="-54" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette down0000" x="861" y="1102" width="404" height="538" frameX="-133" frameY="-1" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette down0001" x="1265" y="1102" width="407" height="538" frameX="-130" frameY="-1" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette down0002" x="1389" y="544" width="409" height="539" frameX="-128" frameY="0" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette up0000" x="407" y="555" width="443" height="544" frameX="-74" frameY="-3" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette up0001" x="850" y="555" width="448" height="544" frameX="-70" frameY="-3" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette up0002" x="1389" y="0" width="452" height="544" frameX="-68" frameY="-3" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette up0003" x="0" y="1102" width="454" height="543" frameX="-67" frameY="-4" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette right0000" x="0" y="0" width="450" height="555" frameX="-84" frameY="-5" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette right0001" x="450" y="0" width="461" height="552" frameX="-84" frameY="-8" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette right0002" x="911" y="0" width="478" height="552" frameX="-84" frameY="-8" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette atack0000" x="3473" y="0" width="690" height="455" frameX="-77" frameY="-76" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette atack0001" x="3473" y="455" width="667" height="455" frameX="-77" frameY="-76" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette atack0002" x="853" y="2711" width="611" height="463" frameX="-77" frameY="-68" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette atack0003" x="2790" y="2711" width="563" height="458" frameX="-77" frameY="-73" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette atack0004" x="1464" y="2711" width="472" height="462" frameX="-77" frameY="-69" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette atack0005" x="1936" y="2711" width="427" height="459" frameX="-77" frameY="-72" frameWidth="787" frameHeight="575" />
+<SubTexture name="smurfette atack0006" x="2363" y="2711" width="427" height="459" frameX="-77" frameY="-72" frameWidth="787" frameHeight="575" />
+</TextureAtlas>

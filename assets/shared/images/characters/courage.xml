@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="courage.png"><SubTexture name="courage idle0000" x="3195" y="1191" width="773" height="1190" frameX="-281" frameY="-12" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage idle0001" x="1631" y="0" width="820" height="1206" frameX="-261" frameY="-12" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage idle0002" x="0" y="1224" width="846" height="1205" frameX="-261" frameY="-13" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage idle0003" x="846" y="1224" width="879" height="1200" frameX="-261" frameY="-18" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage idle0004" x="0" y="1224" width="846" height="1205" frameX="-261" frameY="-13" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage idle0005" x="1631" y="0" width="820" height="1206" frameX="-261" frameY="-12" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage idle0006" x="0" y="2429" width="773" height="1190" frameX="-281" frameY="-12" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage up0000" x="2451" y="0" width="744" height="1194" frameX="-281" frameY="-8" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage up0001" x="2451" y="1194" width="714" height="1186" frameX="-252" frameY="-16" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage up0002" x="835" y="0" width="796" height="1210" frameX="-215" frameY="-4" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage up0003" x="0" y="0" width="835" height="1224" frameX="-176" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage left0000" x="3195" y="0" width="840" height="1191" frameX="-281" frameY="-11" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage left0001" x="773" y="2429" width="849" height="1190" frameX="-281" frameY="-12" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage left0002" x="1622" y="2429" width="875" height="1186" frameX="-281" frameY="-16" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage right0000" x="1725" y="1224" width="712" height="1177" frameX="-281" frameY="-25" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage right0001" x="4035" y="0" width="694" height="1174" frameX="-281" frameY="-28" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage right0002" x="4729" y="1174" width="672" height="1166" frameX="-281" frameY="-36" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage down0000" x="2497" y="2429" width="888" height="1180" frameX="-217" frameY="-54" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage down0001" x="4729" y="0" width="927" height="1174" frameX="-217" frameY="-60" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="courage down0002" x="0" y="3619" width="968" height="1161" frameX="-217" frameY="-73" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

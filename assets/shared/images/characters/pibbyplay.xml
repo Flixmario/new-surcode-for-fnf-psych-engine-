@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibbyplay.png"><SubTexture name="pibbyplay idle0000" x="3927" y="0" width="988" height="1223" frameX="-124" frameY="-43" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay idle0001" x="983" y="0" width="981" height="1260" frameX="-68" frameY="-7" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay idle0002" x="2940" y="0" width="987" height="1246" frameX="-91" frameY="-21" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay idle0003" x="3927" y="0" width="988" height="1223" frameX="-124" frameY="-43" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay dogde0000" x="3927" y="1223" width="988" height="1216" frameX="-133" frameY="-47" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay dogde0001" x="3927" y="1223" width="988" height="1216" frameX="-133" frameY="-33" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay dogde0002" x="3927" y="1223" width="988" height="1216" frameX="-133" frameY="-47" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay right0000" x="4915" y="0" width="989" height="1223" frameX="-176" frameY="-46" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay right0001" x="984" y="2516" width="989" height="1224" frameX="-198" frameY="-45" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay right0002" x="4915" y="0" width="989" height="1223" frameX="-176" frameY="-46" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay right0003" x="4915" y="1223" width="989" height="1223" frameX="-176" frameY="-46" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay down0000" x="2940" y="1246" width="984" height="1236" frameX="-72" frameY="-29" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay down0001" x="1964" y="0" width="976" height="1252" frameX="-45" frameY="-13" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay down0002" x="2940" y="1246" width="984" height="1236" frameX="-72" frameY="-29" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay down0003" x="0" y="2516" width="984" height="1236" frameX="-72" frameY="-29" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay right0004" x="1973" y="2516" width="989" height="1224" frameX="-74" frameY="-50" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay left0000" x="4915" y="2446" width="989" height="1218" frameX="-55" frameY="-56" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay left0001" x="1973" y="2516" width="989" height="1224" frameX="-74" frameY="-50" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay up0000" x="0" y="1265" width="987" height="1251" frameX="-148" frameY="-15" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay up0001" x="0" y="0" width="983" height="1265" frameX="-170" frameY="-1" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay up0002" x="0" y="1265" width="987" height="1251" frameX="-148" frameY="-15" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="pibbyplay up0003" x="987" y="1265" width="987" height="1251" frameX="-148" frameY="-15" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

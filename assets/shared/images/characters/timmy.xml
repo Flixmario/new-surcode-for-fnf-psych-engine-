@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="timmy.png"><SubTexture name="timmy idle0000" x="1199" y="1213" width="1074" height="1052" frameX="-70" frameY="-161" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy idle0001" x="3315" y="0" width="1108" height="1049" frameX="-70" frameY="-164" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy idle0002" x="3315" y="1049" width="1074" height="1036" frameX="-70" frameY="-177" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy idle0003" x="1209" y="2283" width="1074" height="1032" frameX="-70" frameY="-181" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy up0000" x="2226" y="0" width="1089" height="1184" frameX="-70" frameY="-29" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy up0001" x="1113" y="0" width="1113" height="1197" frameX="-70" frameY="-16" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy up0002" x="0" y="0" width="1113" height="1213" frameX="-70" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy left0000" x="0" y="1213" width="1199" height="1070" frameX="-70" frameY="-143" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy left0001" x="0" y="2283" width="1209" height="1036" frameX="-70" frameY="-177" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy left0002" x="1074" y="3319" width="1209" height="994" frameX="-70" frameY="-219" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy right0000" x="2283" y="2283" width="1074" height="1013" frameX="-70" frameY="-200" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy right0001" x="2283" y="3319" width="1074" height="989" frameX="-70" frameY="-224" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy right0002" x="0" y="3319" width="1074" height="1013" frameX="-70" frameY="-200" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy down0000" x="4423" y="0" width="1129" height="883" frameX="-70" frameY="-341" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy down0001" x="4423" y="1766" width="1098" height="835" frameX="-70" frameY="-389" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="timmy down0002" x="4423" y="883" width="1129" height="883" frameX="-70" frameY="-341" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

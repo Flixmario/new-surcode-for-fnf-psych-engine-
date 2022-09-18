@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AnnoyingOrange.png"><SubTexture name="AnnoyingOrange idle0000" x="3600" y="972" width="1164" height="971" frameX="-103" frameY="-188" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange idle0001" x="3600" y="1943" width="1164" height="971" frameX="-103" frameY="-188" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange idle0002" x="0" y="3330" width="1164" height="971" frameX="-103" frameY="-188" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange idle0003" x="1164" y="3330" width="1280" height="971" frameX="0" frameY="-188" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange idle0004" x="2444" y="3330" width="1164" height="971" frameX="-103" frameY="-188" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange up0000" x="0" y="0" width="1176" height="1133" frameX="-101" frameY="-34" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange up0001" x="1176" y="0" width="1176" height="1133" frameX="-101" frameY="-34" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange up0002" x="0" y="1133" width="1176" height="1133" frameX="-101" frameY="-34" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange left0000" x="1184" y="2266" width="1176" height="972" frameX="-96" frameY="-188" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange left0001" x="2360" y="2266" width="1176" height="972" frameX="-96" frameY="-188" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange right0000" x="2352" y="1112" width="1184" height="1064" frameX="-96" frameY="-120" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange right0001" x="0" y="2266" width="1184" height="1064" frameX="-96" frameY="-120" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange right0002" x="2352" y="0" width="1248" height="1112" frameX="-32" frameY="-120" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange down0000" x="3600" y="0" width="1170" height="972" frameX="-100" frameY="-188" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="AnnoyingOrange down0001" x="1176" y="1133" width="1170" height="974" frameX="-100" frameY="-188" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

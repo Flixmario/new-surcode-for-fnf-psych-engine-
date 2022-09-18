@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tomfinalphase.png"><SubTexture name="tomfinalphase idle0000" x="0" y="0" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase idle0001" x="0" y="1440" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase idle0002" x="2930" y="0" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase idle0003" x="2930" y="1440" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase idle0004" x="0" y="2880" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase left0000" x="2930" y="2880" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase left0001" x="0" y="4320" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase left0002" x="2930" y="4320" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase down0000" x="5860" y="0" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase down0001" x="5860" y="1440" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase down0002" x="5860" y="2880" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase right0000" x="5860" y="4320" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase right0001" x="0" y="5760" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase right0002" x="2930" y="5760" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+<SubTexture name="tomfinalphase up0000" x="5860" y="5760" width="2930" height="1440" frameX="0" frameY="0" frameWidth="2930" frameHeight="1440" />
+</TextureAtlas>
